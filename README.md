@@ -4,7 +4,7 @@
 
 Welcome to my GitHub page.
 
-<h3 align="center">Hello, I am a graduate from Jomo Kenyatta University of Agriculture and Technology. I studies Information Technology with a major in Software Engineerng, Computer Programming and Networking. I am passionate about programming and problem-solving. I have diverse skills in various programming languages and web technologies. My foundation includes proficiency in Data Structures, PHP-Laravel, JavaScript- ReactJs, Server-side NodeJs, ExpressJs, NodeJs, Angular, Python-Django, Database Technologies such as MySQL, PostgreSQL, nosql technologies such as MongoDB. I have hands-on experience building dynamic and interactive web applications, utilizing the power of UI/UX design, Material Design, DRY principles.</h3>
+<h3 align="center">Hello, I am a graduate from Jomo Kenyatta University of Agriculture and Technology. I studied Information Technology with a major in Software Engineerng, Computer Programming and Networking. I am passionate about programming and problem-solving. I have diverse skills in various programming languages and web technologies. My foundation includes proficiency in Data Structures, PHP-Laravel, JavaScript- ReactJs, Server-side NodeJs, ExpressJs, NodeJs, Angular, Python-Django, Database Technologies such as MySQL, PostgreSQL, nosql technologies such as MongoDB. I have hands-on experience building dynamic and interactive web applications, utilizing the power of UI/UX design, Material Design, DRY principles.</h3>
 
 ## Languages and Tools
 
