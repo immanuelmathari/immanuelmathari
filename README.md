@@ -10,10 +10,6 @@ Welcome to my GitHub page.
 
 ![Languages and Tools](https://skillicons.dev/icons?i=php,py,cpp,html,css,js,java,mysql,git,docker,linux,react,typescript,nodejs)
 
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 
 <p align="left"> <a href="https://twitter.com/mathariimmanuel" target="blank"><img src="https://img.shields.io/twitter/follow/mathariimmanuel?logo=twitter&style=for-the-badge" alt="mathariimmanuel" /></a> </p>
 
