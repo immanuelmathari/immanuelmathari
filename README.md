@@ -1,5 +1,7 @@
 ## Hi there 👋 I am Immanuel Mathari
 
+![Profile views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
+
 <!--
 **immanuelmathari/immanuelmathari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
