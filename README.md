@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Immanuel Mathari</h1>
+<h1 align="center">Hi 👋, My name is Immanuel Mathari and I am a software developer.</h1>
 
 ![Profile views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
 
